@@ -1,0 +1,57 @@
+From the provided document, it appears to be a cumulative report containing various laboratory investigations and test results. Here are some medical findings based on the information provided:
+
+1. **Alpha-Fetoprotein (Serum):**
+   - The serum alpha-fetoprotein level is within the normal range (0 - 5.8 ku/L). Elevated levels may be associated with certain liver conditions or cancer.
+
+2. **Bone Profile (Serum):**
+   - Includes levels of adjusted calcium, albumin, alkaline phosphatase, calcium, globulin, phosphate, total protein, and urea.
+   - Specific values for these parameters are not provided in the given excerpt for interpretation.
+
+3. **CEA (Serum - Serum carcinoembryonic antigen):**
+   - The serum carcinoembryonic antigen level is within the normal range (0 - 3.8 ng/mL). Elevated levels can be seen in certain cancers.
+
+4. **Clotting Screen:**
+   - Includes APTT, APTT ratio, Fibrinogen, INR, and Prothrombin Time. These values are not provided for interpretation.
+
+5. **Electrolytes & Creatinine:**
+   - Includes eGFR, serum creatinine, potassium, and sodium levels.
+   - eGFR (MDRD) values are not specified, while serum creatinine, potassium, and sodium levels are within the normal ranges provided.
+
+6. **Full Blood Count:**
+   - Includes hemoglobin, hematocrit, MCH, MCHC, MCV, platelet count, RBC count, and other parameters.
+   - Specific values are not provided in the excerpt for interpretation.
+
+7. **Haemoglobin A1C:**
+   - The Hemoglobin A1c level is not within the normal range (0 - 5, value is redacted). It is a marker for long-term glucose control in diabetes.
+
+8. **Lipid Profile, Serum:**
+   - Includes cholesterol, HDL, non-HDL cholesterol, and triglyceride levels.
+   - Specific values are not provided for interpretation.
+
+9. **Liver Function Tests:**
+   - Includes albumin, alkaline phosphatase, ALT, globulin, total bilirubin, and total protein.
+   - Specific values are not provided in the excerpt for interpretation.
+
+10. **PSA, Total (Serum - Serum prostate-specific antigen):**
+    - The serum prostate-specific antigen level is within the normal range (0 - 5.4 ng/mL). Elevated levels can be seen in prostate conditions.
+
+11. **Serum hCG (Human Chorionic Gonadotropin):**
+    - Specific values for serum hCG are not provided in the given excerpt for interpretation.
+
+12. **Serum LDH (Lactate Dehydrogenase):**
+    - The serum LDH level is within the normal range (0 - 2 iu/L). Elevated levels can be associated with various conditions.
+
+13. **Thyroid Function Tests:**
+    - Includes free thyroxine and TSH levels; the values are within the normal ranges provided.
+
+14. **Urea & Electrolytes (S):**
+    - Includes eGFR, serum creatinine, potassium, sodium, and urea levels.
+    - Specific values are not provided in the excerpt for interpretation.
+
+15. **Urea, Serum:**
+    - The serum urea level is within the normal range (2.8 - 8.1 mmol/L).
+  
+16. **Urine Albumin:**
+    - The urine albumin levels are not within the normal range. The urine albumin/creatinine ratio indicates potential kidney issues.
+
+It's important to note that further interpretation or diagnosis would depend on a comprehensive review of the complete test results, clinical history, and physical examination by a healthcare provider. The redacted values and missing specific values limit the ability to provide a detailed analysis.

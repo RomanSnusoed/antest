@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.result-container {
+  display: flex; /* Располагаем блоки в ряд */
+  gap: 20px; /* Расстояние между блоками */
+  justify-content: space-between; /* Равномерное распределение */
+}
+
+.result-box {
+  flex: 1; /* Все блоки занимают равное пространство */
+  padding: 15px;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: auto; /* Добавляем прокрутку, если текст слишком длинный */
+  max-height: 400px; /* Ограничиваем высоту блока */
+}
+
+.result-box h2 {
+  margin-top: 0;
+  font-size: 18px;
+  color: #333;
+}
+
+pre {
+  white-space: pre-wrap; /* Перенос строк внутри блока */
+  word-wrap: break-word; /* Перенос длинных слов */
+}
+
+.button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background: #007bff;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.button:hover {
+  background: #0056b3;
+}
